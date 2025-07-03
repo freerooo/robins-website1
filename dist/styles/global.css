@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+  max-width: 700px;
+  margin: auto;
+  padding: 1rem;
+  background: #f9f9f9;
+  color: #333;
+}
+
+header, footer {
+  text-align: center;
+  padding: 1rem;
+}
+
+nav a {
+  margin: 0 0.5rem;
+  color: #0077cc;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h1, h2 {
+  color: #0077cc;
+}
+
+.container {
+  background: white;
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+  margin-top: 1rem;
+}
